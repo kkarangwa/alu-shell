@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-#until loops excute if the statment tuns false"
+
+ops excute if the statment tuns false"
 count=0
 until [ $count -eq 10 ]
 do
