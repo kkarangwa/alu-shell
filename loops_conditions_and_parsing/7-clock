@@ -1,5 +1,4 @@
-#!/usr/bin/env bash                                                 
-# Initialize the hours and minutes variables                        
+nitialize the hours and minutes variables                        
 hour=0                                         
 while [ $hour -lt 13 ]
 do

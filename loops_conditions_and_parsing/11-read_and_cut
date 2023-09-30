@@ -1,11 +1,4 @@
-#!/usr/bin/env bash
-#Write a Bash script that displays the content of the file
-FILENAME="/etc/passwd"
-while IFS=: read -r username userid  homedir comment
-do
-    echo "$username, $userid, $comment $homedir"
-done < $FILENAME#!/usr/bin/env bash
-#Write a Bash script that displays the content of the file
+ Bash script that displays the content of the file
 FILENAME="/etc/passwd"
 while IFS=: read -r username userid  homedir comment
 do

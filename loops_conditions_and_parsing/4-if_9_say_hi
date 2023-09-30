@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
-#display best school and then hi on 8th index
+
+cy best school and then hi on 8th index
 count=1
 while [ $count -le 10 ]
 do
