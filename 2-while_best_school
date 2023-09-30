@@ -1,8 +1,0 @@
-i
-rds in a list with while statatment
-count=1
-while [ $count -le 10 ]
-do
-	echo "Best School"
-          count=$((count + 1))
-done

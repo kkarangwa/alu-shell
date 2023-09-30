@@ -1,6 +1,5 @@
-
-i
-rds in a list with while statatment
+#!/usr/bin/env bash
+#print the words in a list with while statatment
 count=1
 while [ $count -le 10 ]
 do

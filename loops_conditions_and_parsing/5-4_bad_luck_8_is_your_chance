@@ -1,5 +1,5 @@
-
-cy different word accoding to the code
+#!/usr/bin/env bash
+#display different word accoding to the code
 count=1
 while [ $count -le 10 ]
 do

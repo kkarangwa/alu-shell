@@ -1,8 +1,0 @@
-
-ops excute if the statment tuns false"
-count=0
-until [ $count -eq 10 ]
-do
-	echo "Best School"
-	count=$((count+1))
-done
