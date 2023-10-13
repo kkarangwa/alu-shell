@@ -1,4 +1,5 @@
-ges the manage_process
+#!/usr/bin/env bash
+#manages the manage_process
 file=/var/run/my_process.pid
 if [ "$1" == "start" ];
 then
